@@ -1,0 +1,14 @@
+{
+  "name": "insomnia-plugin-liveperson",
+  "version": "0.1.0",
+  "main": "src/index.js",
+  "author": "Jordan Adams <hi@jordanadams.co.uk>",
+  "license": "MIT",
+  "insomnia": {
+    "name": "liveperson",
+    "description": "Integration with LivePerson"
+  },
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
